@@ -1,9 +1,17 @@
-# praboworahmat10
-Personal Github Profil Readme
 <h1 align="center">Hi 👋, I'm giovedirp_</h1>
 <h3 align="center">A passionate Software developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Face Recognition & Geolocation**
+
+- 🌱 I’m currently learning **Laravel,React Native, TypeScript & Backend Development**
+
+- 👯 I’m looking to collaborate on **Web & Mobile Development Projects**
+
+- 🤝 I’m looking for help with **Software Development & Best Practices**
+
+- 💬 Ask me about **HTML5,CSS3, Bootstrap, JavaScript, React, React Native & TypeScript**
+
+- 📫 How to reach me **praboworahmat10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
